@@ -2,3 +2,14 @@ body{
     background-color:azure ;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+.container > h2{
+   margin-bottom: 0;
+}
+.container > p {
+    margin: 8px;
+}
+.container > ul{
+    padding: 0 40px;
+    margin:0;
+}
